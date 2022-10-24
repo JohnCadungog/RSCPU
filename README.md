@@ -34,4 +34,5 @@ Relatively Simpler CPU Specifications:
 
 Instruction Sets:
 ![image](https://user-images.githubusercontent.com/112431534/197578274-a38536e0-6843-4786-8c4d-229f4755ce00.png)
+![image](https://user-images.githubusercontent.com/112431534/197578588-362b026d-c080-4ab1-bfb5-7fe3aea64d71.png)
 https://docs.google.com/document/d/1xMWaeCErWLVS_5ob-iCW9207Zb_saEHg/edit
